@@ -8,8 +8,8 @@ theme: the-plain
 
 # Site Settings
 url:                https://litday.github.io/ # main url
-baseurl:            ""
-permalink:          :title # Post permalink
+baseurl:            "S2"
+permalink:          /:title # Post permalink
 timezone:           Asia/Seoul # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to 'false' to disable
 
